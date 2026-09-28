@@ -1,0 +1,7 @@
+# sync_function/requirements.txt
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+firebase-admin>=6.0.0
+google-auth
+functions-framework
